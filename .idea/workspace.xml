@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1026da60-9d35-4a7a-8872-4d34bc6ecd09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/MonotonicArray.java" afterDir="false" />
+    <list default="true" id="1026da60-9d35-4a7a-8872-4d34bc6ecd09" name="Changes" comment="monotonic array">
+      <change afterPath="$PROJECT_DIR$/src/Array/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/PascalTriangleZeroIndexed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TopKFrequentNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ankur0578"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ankur0578&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ankur0578/DSA.git",
-    "accountId": "80a275fd-115c-415c-bc6a-befa79a3bc69"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ankur0578/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;80a275fd-115c-415c-bc6a-befa79a3bc69&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2jc81fztFimXvGHmUldYFUwWhsl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,13 +50,16 @@
   "keyToString": {
     "Application.GoodPair.executor": "Run",
     "Application.MonotonicArray.executor": "Run",
+    "Application.PascalTriangle.executor": "Run",
+    "Application.PascalTriangleZeroIndexed.executor": "Run",
+    "Application.TopKFrequentNumber.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/ankurchauhan/Java/DSA/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonotonicArray">
+  <component name="RunManager" selected="Application.TopKFrequentNumber">
     <configuration name="GoodPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.GoodPair" />
       <module name="DSA" />
@@ -80,8 +86,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.PascalTriangle" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangleZeroIndexed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.PascalTriangleZeroIndexed" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.TopKFrequentNumber" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequentNumber" />
+        <item itemvalue="Application.PascalTriangleZeroIndexed" />
+        <item itemvalue="Application.PascalTriangle" />
         <item itemvalue="Application.MonotonicArray" />
         <item itemvalue="Application.GoodPair" />
       </list>
@@ -96,6 +144,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721674790839</updated>
     </task>
+    <task id="LOCAL-00001" summary="monotonic array">
+      <option name="closed" value="true" />
+      <created>1721676183704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721676183704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="monotonic array" />
+    <option name="LAST_COMMIT_MESSAGE" value="monotonic array" />
   </component>
 </project>
