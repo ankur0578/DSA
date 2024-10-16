@@ -10,7 +10,7 @@ public class SortColors {
     }
     public static void sortColors(int[] nums) {
         int left = 0;
-        for (int i = 0 ;i < nums.length-1;i++){
+        for (int i = 1 ;i < nums.length-1;i++){
             if(nums[i] == 0 ){
                 left ++;
             } else if (nums[i] == 1 && nums[i-1] < 1){
@@ -22,7 +22,7 @@ public class SortColors {
     }
 
     public static void swap(int[] nums , int right, int left){
-         int temp = right;
+         int temp = nums[right];
          nums[right]= nums[left];
          nums[left]=temp;
     }

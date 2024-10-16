@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1026da60-9d35-4a7a-8872-4d34bc6ecd09" name="Changes" comment="monotonic array">
-      <change afterPath="$PROJECT_DIR$/src/Array/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/PascalTriangleZeroIndexed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/TopKFrequentNumber.java" afterDir="false" />
+    <list default="true" id="1026da60-9d35-4a7a-8872-4d34bc6ecd09" name="Changes" comment="adding more">
+      <change afterPath="$PROJECT_DIR$/src/Array/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ConsequtiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/IsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RIghtRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RearrangeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TwoSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TwoSumsTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/PatternMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/FebonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Pallendrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseArrayUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectIonSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/SortColors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +66,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
+    "Application.BuyAndSellStock.executor": "Run",
+    "Application.ClosestToZero.executor": "Run",
+    "Application.ConsequtiveNumber.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.GoodPair.executor": "Run",
+    "Application.HashingMain.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IsSorted.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxSubarray.executor": "Run",
+    "Application.MergeStringAlternate.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
     "Application.MonotonicArray.executor": "Run",
+    "Application.OneToN.executor": "Run",
+    "Application.Pallendrome.executor": "Run",
     "Application.PascalTriangle.executor": "Run",
     "Application.PascalTriangleZeroIndexed.executor": "Run",
-    "Application.TopKFrequentNumber.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.PatternMain.executor": "Run",
+    "Application.ProductExceptItself.executor": "Run",
+    "Application.PyramidPattern.executor": "Run",
+    "Application.RIghtRotate.executor": "Run",
+    "Application.RearrangeSequence.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseArrayUsingRecursion.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SelectIonSort.executor": "Run",
+    "Application.SortColors.executor": "Run",
+    "Application.SumOfN.executor": "Run",
+    "Application.TopKFrequentNumber.executor": "Debug",
+    "Application.TwoSums.executor": "Run",
+    "Application.TwoSumsTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/ankurchauhan/Java/DSA/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TopKFrequentNumber">
-    <configuration name="GoodPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.GoodPair" />
+  <component name="RunManager" selected="Application.RearrangeSequence">
+    <configuration name="BuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.BuyAndSellStock" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonotonicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MonotonicArray" />
+    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MaxSubarray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.PascalTriangle" />
+    <configuration name="RearrangeSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.RearrangeSequence" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangleZeroIndexed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.PascalTriangleZeroIndexed" />
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SortColors" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFrequentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.TopKFrequentNumber" />
+    <configuration name="TwoSumsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.TwoSumsTwo" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TopKFrequentNumber" />
-        <item itemvalue="Application.PascalTriangleZeroIndexed" />
-        <item itemvalue="Application.PascalTriangle" />
-        <item itemvalue="Application.MonotonicArray" />
-        <item itemvalue="Application.GoodPair" />
+        <item itemvalue="Application.RearrangeSequence" />
+        <item itemvalue="Application.BuyAndSellStock" />
+        <item itemvalue="Application.MaxSubarray" />
+        <item itemvalue="Application.TwoSumsTwo" />
+        <item itemvalue="Application.SortColors" />
       </list>
     </recent_temporary>
   </component>
@@ -152,11 +201,127 @@
       <option name="project" value="LOCAL" />
       <updated>1721676183704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="monotonic array">
+      <option name="closed" value="true" />
+      <created>1721928901775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721928901775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding more">
+      <option name="closed" value="true" />
+      <created>1723188842035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723188842035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="monotonic array" />
-    <option name="LAST_COMMIT_MESSAGE" value="monotonic array" />
+    <MESSAGE value="adding more" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding more" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/ProductExceptItself.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hashing/FirstHashing.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hashing/FirstHashing.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hashing/FirstHashing.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hashing/HashingMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/SelectIonSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/ReverseArrayUsingRecursion.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Pallendrome.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RemoveDuplicates.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RIghtRotate.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RIghtRotate.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RIghtRotate.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/RIghtRotate.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/ConsequtiveNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/BuyAndSellStock.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Patterns/PyramidPattern.java</url>
+          <line>18</line>
+          <properties class="Patterns.PyramidPattern" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array/TwoSumsTwo.java</url>
+          <line>5</line>
+          <properties class="Array.TwoSumsTwo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
